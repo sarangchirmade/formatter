@@ -2,7 +2,7 @@
   "name": "file-formatter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mayankpande88.github.io/formatter/",
+  "homepage": "https://sarangchirmade.github.io/formatter/",
   "dependencies": {
     "codemirror": "^5.46.0",
     "gh-pages": "^2.0.1",
